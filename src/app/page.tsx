@@ -6,7 +6,6 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://marxong.com/",
   },
-  keywords:"PiAPI, Midjourney API, Suno API, Dream Machine API, AI Apps",
   title: "Home - marx ong",
 };
 
